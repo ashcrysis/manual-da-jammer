@@ -1,5 +1,5 @@
 
-# Manual da Jammer
+# 
 
 Este repositório contém guias rápidos para ajudar durante Game Jams.  
 Ele funciona como uma enciclopédia prática com instruções, boas práticas e dicas para quem quer se organizar durante a jam.
