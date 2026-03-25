@@ -1,4 +1,4 @@
-remote_theme: jekyll/minima
+remote_theme: abhinavs/moonwalk
 plugins:
   - jekyll-remote-theme
 minima:
