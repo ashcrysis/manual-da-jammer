@@ -5,7 +5,7 @@ Este repositório contém guias rápidos para ajudar durante Game Jams.
 Ele funciona como uma enciclopédia prática com instruções, boas práticas e dicas para quem quer se organizar durante a jam.
 
 ---
-## 📘 Guias disponíveis
+## Guias disponíveis
 
 - [Usando GitHub em projetos de Game Jam](./guias/guia-jammer-github-game-jam.md)
 - [Manual do Game Dev (por Jasbrela)](https://github.com/jasbrela/manual-do-gamedev)
