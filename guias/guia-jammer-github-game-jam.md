@@ -3,7 +3,6 @@ share_link: https://share.note.sx/995jo8am#lQvNpv8qzfYUtplWTtXuQbiACaWiduYMCKkgv
 share_updated: 2026-03-25T10:00:51-03:00
 ---
 
-> [!espero que esse guiazinho ajude <3]
 > Qualquer dúvida, pode falar comigo no insta ou discord @ashcrysis
 
 ## 1. Por que usar GitHub?
@@ -75,10 +74,10 @@ Outros templates podem ser encontrados [aqui](https://www.toptal.com/developers/
 - Lembrar que é preciso adicionar quem vai poder colaborar com o projeto no site do GitHub, nas configurações do projeto você convida seu parceire de equipe em "Colaborators" :D
   
 ### Documentações e outros links que podem ser uteis:
-- https://git-scm.com/docs 
-- https://docs.github.com/en/desktop
-- https://docs.unity.com/en-us
-- https://docs.godotengine.org/en/stable/
-- https://semver.org/lang/pt-BR/
-- https://www.toptal.com/developers/gitignore
-- https://www.conventionalcommits.org/pt-br/v1.0.0/
+- [Documentação Git](https://git-scm.com/docs)
+- [GitHub Desktop Docs](https://docs.github.com/en/desktop)
+- [Unity Docs](https://docs.unity.com/en-us)
+- [Godot Docs](https://docs.godotengine.org/en/stable/)
+- [SemVer](https://semver.org/lang/pt-BR/)
+- [Gerador de .gitignore](https://www.toptal.com/developers/gitignore)
+- [Conventional Commits](https://www.conventionalcommits.org/pt-br/v1.0.0/)
